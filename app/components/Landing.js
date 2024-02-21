@@ -13,7 +13,7 @@ import Test from './Test'
 import Mobile_Header from './Mobile_Header'
 import Navu from './Navu'
 import Cont from './Cont'
-import Ema from './Ema'
+
 import Mobnav from './Mobnav'
 import Banner2 from './Banner2'
 import Partners from './Partners'
